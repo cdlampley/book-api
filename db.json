@@ -1,0 +1,91 @@
+{
+    "books": [
+       
+        {
+            "id": 0,
+            "title": "Anna K",
+            "author": "Jenny Lee",
+            "genre": "Contemporary",
+            "market": "Young Adult",
+            "cover": "https://edel-images.azureedge.net/ea/MM/images/jacket_covers/original/9781250236449_39c20.jpg?width=920",
+            "summary": "Meet Anna K. At seventeen, she is at the top of Manhattan and Greenwich society (even if she prefers the company of her horses and dogs); she has the perfect (if perfectly boring) boyfriend; and she has always made her Korean-American father proud (even if he can be a bit controlling). Meanwhile, Anna's brother, Steven, and his girlfriend, Lolly, are trying to weather a sexting scandal; Lolly’s little sister, Kimmie, is recalibrating after an injury derails her ice dancing career; and Steven’s best friend, Dustin, is madly (and one-sidedly) in love with Kimmie. As her friends struggle with the pitfalls of teenage life, Anna always seems to sail gracefully above it all. That is, until the night she meets Alexi “Count” Vronsky. A notorious playboy, Alexi is everything Anna is not. But he has never been in love until he meets Anna, and maybe she hasn’t, either. As Alexi and Anna are pulled irresistibly together, she has to decide how much of her life she is willing to let go to be with him. And when a shocking revelation threatens to shatter their relationship, she is forced to ask if she has ever known herself at all. Dazzlingly opulent and emotionally riveting, Anna K is a brilliant reimagining of Leo Tolstoy’s timeless love story, Anna Karenina—but above all, it is a novel about the dizzying, glorious, heart-stopping experience of first love and first heartbreak."
+        },
+        {
+            "id": 1,
+            "title": "The Frozen Crown",
+            "author": "Greta Kelly",
+            "genre": "Fantasy",
+            "market": "Adult",
+            "cover": "https://edel-images.azureedge.net/ea/HC/images/jacket_covers/original/9780062956965_58666.jpg?width=920",
+            "summary": "Askia became heir to the Frozen Crown of Seravesh because of her devotion to her people. But her realm is facing a threat she cannot defeat by sheer will alone. The mad emperor of the Roven Empire has unleashed a horde of invading soldiers to enslave her lands. For months, her warriors have waged a valiant, stealth battle, yet they cannot stop the enemy’s advancement. Running out of time, she sets sail for sun-drenched Vishir, the neighboring land to the south, to seek help from its ruler, Emperor Armaan. A young woman raised in army camps, Askia is ill-equipped to navigate Vishir’s labyrinthine political games. Her every move sinks her deeper into court intrigues which bewilder and repel her, leaving her vulnerable not only to enemies gathering at Vishir's gates, but to those behind the palace walls. And in this glittering court, where secrets are worth more than gold, Askia fears that one false step will expose her true nature. For Askia is a witch gifted with magical abilities—knowledge that could destroy not only her life but her people. As her adversaries draw closer, Askia is forced to make an impossible choice—and no matter what she decides, it may not be enough to prevent Seravesh’s fall."
+        },
+        
+        {
+            "id": 2,
+            "title": "Ninth House",
+            "author": "Leigh Bardugo",
+            "genre": "Fantasy",
+            "market": "Adult",
+            "cover": "https://edel-images.azureedge.net/ea/MM/images/jacket_covers/original/9781250313072_aa817.jpg?width=920",
+            "summary": "Galaxy “Alex” Stern is the most unlikely member of Yale’s freshman class. Raised in the Los Angeles hinterlands by a hippie mom, Alex dropped out of school early and into a world of shady drug-dealer boyfriends, dead-end jobs, and much, much worse. In fact, by age twenty, she is the sole survivor of a horrific, unsolved multiple homicide. Some might say she’s thrown her life away. But at her hospital bed, Alex is offered a second chance: to attend one of the world’s most prestigious universities on a full ride. What’s the catch, and why her? Still searching for answers, Alex arrives in New Haven tasked by her mysterious benefactors with monitoring the activities of Yale’s secret societies. Their eight windowless “tombs” are the well-known haunts of the rich and powerful, from high-ranking politicos to Wall Street’s biggest players. But their occult activities are more sinister and more extraordinary than any paranoid imagination might conceive. They tamper with forbidden magic. They raise the dead. And, sometimes, they prey on the living. Ninth House is the long-awaited adult debut by the beloved author of Shadow and Bone and Six of Crows. Leigh Bardugo will take her place alongside Lev Grossman and Deborah Harkness as one of the finest practitioners of literary fantasy writing today."
+        },
+        {
+            "id": 3,
+            "title": "Crown of Feathers",
+            "author": "Nicki Pau Preto",
+            "genre": "Fantasy",
+            "market": "Young Adult",
+            "cover": "https://edel-images.azureedge.net/ea/SS/images/jacket_covers/original/9781534424630_6946e.jpg?width=920",
+            "summary": "I had a sister, once… In a world ruled by fierce warrior queens, a grand empire was built upon the backs of Phoenix Riders—legendary heroes who soared through the sky on wings of fire—until a war between two sisters ripped it all apart. I promised her the throne would not come between us. Sixteen years later, Veronyka is a war orphan who dreams of becoming a Phoenix Rider from the stories of old. After a shocking betrayal from her controlling sister, Veronyka strikes out alone to find the Riders—even if that means disguising herself as a boy to join their ranks. But it is a fact of life that one must kill or be killed. Rule or be ruled. Just as Veronyka finally feels like she belongs, her sister turns up and reveals a tangled web of lies between them that will change everything. And meanwhile, the new empire has learned of the Riders’ return and intends to destroy them once and for all. Sometimes the title of queen is given. Sometimes it must be taken. Crown of Feathers is an epic fantasy about love’s incredible power to save—or to destroy. Interspersed throughout is the story of Avalkyra Ashfire, the last Rider queen, who would rather see her empire burn than fall into her sister’s hands."
+        },
+        {
+
+        },
+        {
+            "id": 4,
+            "title": "Beach Read",
+            "author": "Emily Henry",
+            "genre": "Romance",
+            "market": "Adult",
+            "cover": "https://edel-images.azureedge.net/ea/RH/images/jacket_covers/original/9781984806734_7c63a.jpg?width=920",
+            "summary": "Augustus Everett is an acclaimed author of literary fiction. January Andrews writes bestselling romance. When she pens a happily ever after, he kills off his entire cast. They’re polar opposites. In fact, the only thing they have in common is that for the next three months, they're living in neighboring beach houses, broke, and bogged down with writer's block. Until, one hazy evening, one thing leads to another and they strike a deal designed to force them out of their creative ruts: Augustus will spend the summer writing something happy, and January will pen the next Great American Novel. She’ll take him on field trips worthy of any rom-com montage, and he’ll take her to interview surviving members of a backwoods death cult (obviously). Everyone will finish a book and no one will fall in love. Really."
+        },
+        {
+            "id": 5,
+            "title": "Iron Widow",
+            "author": "Xiran Jay Zhao",
+            "genre": "Science Fiction",
+            "market": "Young Adult",
+            "cover": "https://edel-images.azureedge.net/ea/RH/images/jacket_covers/original/9780735269934_92400.jpg?width=920",
+            "summary": "The boys of Huaxia dream of pairing up with girls to pilot Chrysalises, giant transforming robots that can battle the aliens that lurk beyond the Great Wall of China. It doesn't matter that the girls die from the mental strain. When 18-year-old Zetian offers herself up as a concubine-pilot, it's to assassinate the ace male pilot responsible for her sister's death. But when she gets her vengeance, it becomes clear that she is an Iron Widow, a rare kind of female pilot who can sacrifice males to power up Chrysalises instead. To tame her frightening yet valuable mental strength, she is paired up with Li Shimin, the strongest male pilot in Huaxia, yet feared and ostracized for killing his father and brothers. But now that Zetian has had a taste of power, she will not cower so easily. She will take over instead, then leverage their combined strength to force her society to stop failing its women and girls. Or die trying."
+        },
+        {
+            "id": 6,
+            "title": "Renegades",
+            "author": "Marissa Meyer",
+            "genre": "Science Fiction",
+            "market": "Young Adult",
+            "cover": "https://edel-images.azureedge.net/ea/MM/images/jacket_covers/original/9781250044662_79e5d.jpg?width=920",
+            "summary": "The Renegades are a syndicate of prodigies—humans with extraordinary abilities—who emerged from the ruins of a crumbled society and established peace and order where chaos reigned. As champions of justice, they remain a symbol of hope and courage to everyone...except the villains they once overthrew. Nova has a reason to hate the Renegades, and she is on a mission for vengeance. As she gets closer to her target, she meets Adrian, a Renegade boy who believes in justice—and in Nova. But Nova's allegiance is to the villains who have the power to end them both."
+        },
+        {
+            "id": 7,
+            "title": "The Guest List",
+            "author": "Lucy Foley",
+            "genre": "Thriller",
+            "market": "Adult",
+            "cover": "https://edel-images.azureedge.net/ea/HC/images/jacket_covers/original/9780063215382_8536a.jpg?width=1000",
+            "summary": "The bride – The plus one – The best man – The wedding planner  – The bridesmaid – The body. On an island off the coast of Ireland, guests gather to celebrate two people joining their lives together as one. The groom: handsome and charming, a rising television star. The bride: smart and ambitious, a magazine publisher. It’s a wedding for a magazine, or for a celebrity: the designer dress, the remote location, the luxe party favors, the boutique whiskey. The cell phone service may be spotty and the waves may be rough, but every detail has been expertly planned and will be expertly executed. But perfection is for plans, and people are all too human. As the champagne is popped and the festivities begin, resentments and petty jealousies begin to mingle with the reminiscences and well wishes. The groomsmen begin the drinking game from their school days. The bridesmaid not-so-accidentally ruins her dress. The bride’s oldest (male) friend gives an uncomfortably caring toast. And then someone turns up dead. Who didn’t wish the happy couple well? And perhaps more important, why?"
+        },
+        {
+            "id": 8,
+            "title": "A Good Girl's Guide to Murder",
+            "author": "Holly Jackson",
+            "genre": "Thriller",
+            "market": "Young Adult",
+            "cover": "https://edel-images.azureedge.net/ea/RH/images/jacket_covers/original/9781984896391_a58d9.jpg?width=920",
+            "summary": "Everyone in Fairview knows the story. Pretty and popular high school senior Andie Bell was murdered by her boyfriend, Sal Singh, who then killed himself. It was all anyone could talk about. And five years later, Pip sees how the tragedy still haunts her town. But she can't shake the feeling that there was more to what happened that day. She knew Sal when she was a child, and he was always so kind to her. How could he possibly have been a killer? Now a senior herself, Pip decides to reexamine the closed case for her final project, at first just to cast doubt on the original investigation. But soon she discovers a trail of dark secrets that might actually prove Sal innocent . . . and the line between past and present begins to blur. Someone in Fairview doesn't want Pip digging around for answers, and now her own life might be in danger."
+        }
+        
+    ]
+}
